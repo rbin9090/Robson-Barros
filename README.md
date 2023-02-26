@@ -3,27 +3,22 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rbin9090/Robson-Barros/blob/branch/LICENCE) 
 
-## Desenvolvedor web 
+<h3>✨Desenvolvedor web</h3> 
 
 # Sobre:
 
-Sou dedicado a área de programação, tabalhando árduamente em estudos e melhorias para
-sistemas, vindo a atuar com maior precisão e consequentimente obtendo
-qualidades na criação de Soluções de problemas relacionados a informática
-ou Desenvolvimento Web.
-
-
-
-# Tecnologías:
-## HTML5
+Há mais de 6 anos atuando em desenvolvimento de web sites e sistemas para web, 
+em virtude da satisfacão do cliente, foram emprenhados uma vasta carga horária em 
+estudos para adequar-se ás vagas e projetos freelancers. 
+   Durante essa tragetória, foram adiquiridas hábilidades em tecnologías específicas
+e primordiais para o mercado atual como:
+###### HTML5
+###### CSS3
+###### JAVA-SCRIPT
+###### PHP
+###### BANCO DE DADOS
 ![html5 ](https:///link da imagem.png) 
-## CSS3
-## JAVA-SCRIPT
-## PHP
-## BANCO DE DADOS
-
-
 
 # Autor
 
-Robson Barros 
+<n>Robson Barros </n>
