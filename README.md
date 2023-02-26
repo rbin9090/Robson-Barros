@@ -7,10 +7,8 @@
 
 # Sobre:
 
-Há mais de 6 anos atuando em desenvolvimento de web sites e sistemas em prol da satisfacão
-do cliente.
-
-Foram empenhados uma vasta carga horária em estudos e projetos práticos para adequar-se ás vagas e projetos freelancers. 
+Há mais de 6 anos atuando em desenvolvimento de web sites e sistemas visando satisfatóriamente a relevancia nos serviços prestados.
+&nbsp; Foram vastamente empenhadas cargas horárias em estudos e projetos práticos para adequar-se ás vagas. 
    Durante essa tragetória, foram adiquiridas hábilidades em tecnologías específicas
 e primordiais para o mercado atual como:
 ###### HTML5
